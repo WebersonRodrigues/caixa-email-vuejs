@@ -2,7 +2,7 @@ import CaixaDeEntrada from '../views/CaixaDeEntrada';
 import Excluidos from '../views/Excluidos';
 import Enviados from '../views/Enviados';
 import Importantes from '../views/Importantes';
-import Login from '../views/Login';
+// import Login from '../views/Login';
 
 const routes = [
     {
@@ -33,13 +33,13 @@ const routes = [
         title: 'Importantes',
         icon:'mdi-label-variant'
     },
-    {
-        path: '/login',
-        name: 'Login',
-        component: Login,
-        title: 'Login',
-        icon:''
-    }
+    // {
+    //     path: '/login',
+    //     name: 'Login',
+    //     component: Login,
+    //     title: 'Login',
+    //     icon:''
+    // }
   ];
 
   export default routes;
