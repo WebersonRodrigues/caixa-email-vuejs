@@ -1,4 +1,6 @@
 # mymail
+Projeto criado de teste para simular uma caixa de e-mail.
+Esse projeto será integrado com uma API que ainda está sendo desenvolvida.
 
 ## Project setup
 ```
