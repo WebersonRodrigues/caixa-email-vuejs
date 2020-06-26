@@ -7,7 +7,7 @@
     <router-view/>
   </div>-->
 
-  <v-app id="app">
+  <v-app id="app" >
     <Menu />
 
     <!-- conteudo principal da tela -->
