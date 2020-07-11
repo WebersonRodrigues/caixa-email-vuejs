@@ -11,7 +11,7 @@
       </div>
 
       <v-list shaped>
-        <v-list-item-group v-model="item" color="primary">
+        <v-list-item-group color="primary">
           <template v-for="item in items">
             <v-list-item :to="item.path" :key="item.name" link>
               <v-list-item-action>
@@ -58,7 +58,7 @@
       <v-menu offset-y>
         <template v-slot:activator="{ on, attrs }">
           <v-btn icon large v-bind="attrs" v-on="on">
-            <v-avatar size="42px" item>
+            <v-avatar size="42px">
               <v-img src="https://randomuser.me/api/portraits/women/85.jpg"></v-img>
             </v-avatar>
           </v-btn>
@@ -67,8 +67,8 @@
         <!-- aqui eu colocar sei lá um card -->
         <v-card class="mx-auto text-center" max-width="400">
           <v-card-subtitle class="pb-6 pt-8">
-            <v-btn icon large v-bind="attrs" v-on="on">
-              <v-avatar size="75px" item>
+            <v-btn icon large >
+              <v-avatar size="75px">
                 <v-img src="https://randomuser.me/api/portraits/women/85.jpg"></v-img>
               </v-avatar>
             </v-btn>

@@ -1,0 +1,44 @@
+Objetivos para entrega do projeto:
+
+Dia 12/06/2020:
+
+    1° Criar o projeto base. OK
+    2° Adiconar os plugins vuetify, vue-router. OK
+    3° Criar os componentes base do projeto. OK
+    4° Colocar o router para funcionar com base nos componentes. OK.
+    5° Adicionar os icones do menu. OK.
+    6° Criar page tela de login. OK
+
+Dia 19/06/2020:
+
+    1° Esconder o login. OK
+    2° Criar o botão escrever. OK.
+    3° Criar painel do usuário. OK.
+    4° Colocar icones na barra mesmo sem funcionalidades. OK.
+    5° Diminuir o tamnho do menu OK.
+
+Dia 26/06/2020:
+
+1° Criando a tela principal da caixa de entrada.
+2° Criamos as tabs, e a tabela principal.
+3° Adicionamos eventos ao clicar na linha.
+4° Colocamos o modal para abrir ao clicar na linha
+5° Criamos uam variavel para capturar os email selçecionados na tabela.
+
+Dia 03/07/2020
+
+1° Mostrar o html na tela
+2° Criamos um modelo de email e trabalhamos com v-model
+
+Não anotamos
+
+10/07/2020
+
+Terminar o modal de responder email simples.
+
+
+
+
+
+
+
